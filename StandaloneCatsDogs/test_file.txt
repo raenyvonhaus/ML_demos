@@ -1,0 +1,5 @@
+0.80669886 for: C:\Users\t342201\Jupyter\StandaloneCatsDogs\data\liveTest/unknown\images (1).jpg
+0.55153346 for: C:\Users\t342201\Jupyter\StandaloneCatsDogs\data\liveTest/unknown\images.jpg
+0.9474268 for: C:\Users\t342201\Jupyter\StandaloneCatsDogs\data\liveTest/unknown\f997wb2_lapis.jpg
+0.012289923 for: C:\Users\t342201\Jupyter\StandaloneCatsDogs\data\liveTest/unknown\19-1-9_PIN_KJ_Angie_001.jpg
+0.94404805 for: C:\Users\t342201\Jupyter\StandaloneCatsDogs\data\liveTest/unknown\images (2).jpg
